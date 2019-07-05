@@ -6,13 +6,16 @@
 
 ```$composer dumpautoload```
 
-###change .env in db name 
+### change .env in db name 
 
-```$php aritsan migrate```
+```$php artisan migrate```
+
+```$php artisan db:seed
 
 ```$php artisan key:generate```
 
 ```$php artisan serve```
+
 
           
          
