@@ -1,4 +1,4 @@
-# chatApp
+## chatApp
 
 ### laravel and vue js
 
@@ -15,6 +15,8 @@
 ```$php artisan key:generate```
 
 ```$php artisan serve```
+
+That it is....
 
 
           
