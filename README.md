@@ -6,7 +6,7 @@
 
 ```$composer dumpautoload```
 
-```$change .env in db name```
+###change .env in db name 
 
 ```$php aritsan migrate```
 
